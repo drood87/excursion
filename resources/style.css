@@ -5,3 +5,13 @@ body {
 	font-family: "Verdana", sans-serif;
 }
 
+#mainHeader {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.comingSoonLinks {
+	color: #7fffd4;
+	font-size: 16px;
+}
+
